@@ -11,3 +11,8 @@
 
 **adicion um arquivo especifico**
 
+### git commit ###
+
+**adicionando comentário ao terminal, ele gera informações adicionais**
+
+
